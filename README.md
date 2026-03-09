@@ -57,13 +57,19 @@ I specialize in architecting "State of the Art" websites and engineering highly 
 
 ## 📊 Analytics & Activity
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mujtaba9598-hasan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujtaba9598-hasan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
+</p>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mujtaba9598-hasan+&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/mujtaba9598-hasan)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mujtaba9598-hasan+&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/mujtaba9598-hasan)
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mujtaba9598-hasan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=mujtaba9598-hasan+&theme=tokyonight&hide_border=true)](https://github.com/mujtaba9598-hasan)
+<br>
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=mujtaba9598-hasan+&icon=6&color=0)](https://visitcount.itsvg.in)
-
-</div>
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=mujtaba9598-hasan&icon=6&color=0" alt="Profile Views" />
+  </a>
+</p>
