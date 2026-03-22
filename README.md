@@ -18,10 +18,8 @@
   /></a>
   <a href="https://youtube.com/@syedmujtabahasan"><img
   src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white" /></a>
-  <a href="mailto:mujtabahasan901@gmail.com"><img
+  <a href="mailto:mujtaba9598@gmail.com"><img
   src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://wa.me/971527529598"><img
-  src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
 
   </div>
 
@@ -155,6 +153,6 @@
     <br><br>
     <sub>Lead Web Architect | AI Solutions Specialist | Digital Strategist</sub>
     <br>
-    <sub>📧 mujtabahasan901@gmail.com | Dubai, UAE</sub>
+    <sub>📧 mujtaba9598@gmail.com | Dubai, UAE</sub>
 
   </div>
