@@ -3,9 +3,7 @@
   # ⚡️Syed Mujtaba Hasan
 
   <a href="https://github.com/mujtaba9598-hasan">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&w
-  idth=650&lines=Lead+Web+Architect+%26+Digital+Strategist;Advanced+Prompt+Engineer+%7C+Vibe+Coder;Orchestrating+AI+Agents+%7C+Building+S
-  ystems;The+Digital+Orchestrator" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Lead+Web+Architect+%26+Digital+Strategist;Advanced+Prompt+Engineer+%7C+Vibe+Coder;Orchestrating+AI+Agents+%7C+Building+Systems;The+Digital+Orchestrator" alt="Typing Animation" />
   </a>
 
   <br>
@@ -119,7 +117,7 @@
   src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" /> <img
   src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" /> <img
   src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" /> <img
-  src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" /> <img       
+  src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" /> <img        
   src="https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" /> <img
   src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 
